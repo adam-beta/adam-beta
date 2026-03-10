@@ -27,11 +27,4 @@ Python • JavaScript • HTML/CSS • n8n • Linux • Raspberry Pi
 
 ---
 
-## 📊 GitHub Stats
-| Stats | Streak | Top Languages |
-|-------|--------|---------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=adam-beta&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false) | ![Streak](https://nirzak-streak-stats.vercel.app/?user=adam-beta&theme=shadow_red&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-beta&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact) |
-
----
-
 [![](https://visitcount.itsvg.in/api?id=adam-beta&icon=0&color=4)](https://visitcount.itsvg.in)
