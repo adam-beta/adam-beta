@@ -1,25 +1,25 @@
 # 💫 About Me
-
 Hi, I'm Adam 👋  
 I'm a student interested in software development, AI, and automation. I enjoy building projects that solve real problems and experimenting with new technologies.
 
-| 🔭 **Currently working on** | 🧠 **Interested in** | ⚙️ **Tech I use** |
-|----------------------------|--------------------|-----------------|
-| AI automation workflows with n8n | AI & automation | Python • JavaScript • HTML/CSS |
-| Web development projects | Software engineering | n8n • Linux • Raspberry Pi |
-| Building tools & systems for businesses | Startups & digital products |  |
+**🔭 Currently working on:**  
+AI automation workflows with n8n • Web development projects • Building tools and systems for businesses  
+
+**🧠 Interested in:**  
+AI & automation • Software engineering • Startups and digital products  
+
+**⚙️ Tech I use:**  
+Python • JavaScript • HTML/CSS • n8n • Linux • Raspberry Pi  
 
 ---
 
 ## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-bateman-808164384) 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/adam-beta) 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/adam-beta)  
 
 ---
 
 ## 💻 Tech Stack
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -28,9 +28,9 @@ I'm a student interested in software development, AI, and automation. I enjoy bu
 ---
 
 ## 📊 GitHub Stats
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=adam-beta&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false) | ![Streak](https://nirzak-streak-stats.vercel.app/?user=adam-beta&theme=shadow_red&hide_border=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-beta&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Stats | Streak | Top Languages |
+|-------|--------|---------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=adam-beta&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false) | ![Streak](https://nirzak-streak-stats.vercel.app/?user=adam-beta&theme=shadow_red&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-beta&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact) |
 
 ---
 
